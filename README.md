@@ -1,4 +1,4 @@
-
+pwd
 
   # Your First IDE Lab
 
